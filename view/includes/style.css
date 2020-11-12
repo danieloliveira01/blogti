@@ -1,0 +1,17 @@
+.topo{
+	width: 300px;
+	height: 30px;
+	background-color: black;
+}
+
+.menu{
+	width: 100px;
+	height: 40px;
+	background-color: red;
+}
+
+.menu-lateral{
+	width: 100px;
+	height: 40px;
+	background-color: red;
+}
